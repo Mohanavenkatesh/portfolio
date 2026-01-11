@@ -22,7 +22,7 @@ const HomePage = () => {
 
         <h1 className='text-2xl mt-10'> Get in Touch </h1>
         <p>Interested in colloaborating or <br /> want to know more about my work ? <br /> feel free to contact me</p>
-        <Link href='https://wa.me/7200470762' ><button className='bg-white/70 text-black py-2 px-5 mt-10 cursor-pointer rounded-full'>Hire Me</button></Link>
+        <Link href='https://wa.me/7200470762' ><button className='bg-green-600 text-white py-2 px-5 mt-10 cursor-pointer rounded-full'>Hire Me</button></Link>
       </div>
     </>
   )
