@@ -14,13 +14,13 @@ export default function Home() {
                     <div className="bg-white/5 border border-white/10 p-6 rounded-2xl">
                         <h3 className="text-xl font-semibold mb-4 text-blue-400">Frontend</h3>
                         <p className="text-gray-300 leading-relaxed">
-                            HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+                            HTML, CSS, JavaScript(ES6+), React, Next.js, Tailwind CSS ,
                         </p>
                     </div>
                     <div className="bg-white/5 border border-white/10 p-6 rounded-2xl">
                         <h3 className="text-xl font-semibold mb-4 text-purple-400">Backend & Tools</h3>
                         <p className="text-gray-300 leading-relaxed">
-                            Node.js basics, MongoDB, Git, GitHub, VS Code
+                            Node.js basics, Express.js, REST APIs MongoDB Atlas , Git, GitHub, VS Code
                         </p>
                     </div>
                 </div>
