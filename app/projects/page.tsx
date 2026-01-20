@@ -7,8 +7,8 @@ const projects = [
         title: 'Simple To-Do List',
         description: 'A clean and minimal to-do list app to manage daily tasks. Features include adding, deleting, and marking tasks as complete.',
         tags: ['React', 'State Management', 'CSS Modules'],
-        link: '#',
-        github: '#'
+        link: 'https://react-todo-app-kappa-six.vercel.app/',
+        github: 'https://github.com/Mohanavenkatesh/react-todo-app'
     },
     {
         id: 2,
