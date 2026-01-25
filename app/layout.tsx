@@ -22,8 +22,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${urbanist.className}} antialiased bg-black text-white  font-[Urbanist]`}
+        className={`${urbanist.className} antialiased bg-black text-white font-sans relative overflow-x-hidden`}
       >
+        <div className="fixed inset-0 -z-10 h-full w-full bg-black">
+          <div className="absolute top-0 z-[-2] h-screen w-screen bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]" />
+        </div>
         <Header />
         {children}
         <Footer />
