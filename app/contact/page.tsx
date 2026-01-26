@@ -54,7 +54,7 @@ const Contact = () => {
                             </span>
                             Email
                         </h3>
-                        <a href="mailto:mohan@example.com" className='text-gray-400 text-lg hover:text-white transition-colors'>mohan@example.com</a>
+                        <a href="mailto:mohanavenkatesh.work@gmail.com" className='text-gray-400 text-lg hover:text-white transition-colors'>mohanavenkatesh.work@gmail.com</a>
                     </div>
 
                     <div className="p-8 rounded-3xl bg-white/5 border border-white/10 hover:border-purple-500/30 transition-colors group">
@@ -65,8 +65,8 @@ const Contact = () => {
                             Connect
                         </h3>
                         <div className='flex gap-4'>
-                            <a href='#' className='flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 hover:border-blue-400/50 hover:text-blue-400 transition-all text-sm font-medium'>LinkedIn</a>
-                            <a href='#' className='flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/50 hover:text-white transition-all text-sm font-medium'>GitHub</a>
+                            <a href='https://www.linkedin.com/in/mohanavenkatesh/' className='flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 hover:border-blue-400/50 hover:text-blue-400 transition-all text-sm font-medium'>LinkedIn</a>
+                            <a href='https://github.com/mohan-codebase' className='flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/50 hover:text-white transition-all text-sm font-medium'>GitHub</a>
                             <a href='#' className='flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 hover:border-sky-400/50 hover:text-sky-400 transition-all text-sm font-medium'>Twitter</a>
                         </div>
                     </div>

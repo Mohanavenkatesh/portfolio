@@ -42,7 +42,7 @@ const Hero = () => {
                 transition={{ duration: 0.8, delay: 0.4 }}
                 className="mt-6 max-w-2xl text-lg text-gray-400 sm:text-xl"
             >
-                Hi, I'm Mohan. A passionate Frontend Developer crafting pixel-perfect, interactive, and accessible web applications.
+                Hi, I'm Mohan. A passionate Fullstack Developer crafting seamless, interactive, and accessible web applications.
             </motion.p>
 
             <motion.div
